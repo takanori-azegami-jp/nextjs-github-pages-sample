@@ -1,4 +1,4 @@
-# nextjs-github-pages-example
+# nextjs-github-pages-sample
 GitHub PagesにNext.js をデプロイする
 
 ## 1.Node.jsインストールする
@@ -43,7 +43,7 @@ Settings → Actions → General ＞ `read and write permissions`に変更
 
 
 ## 7.GitHub Pagesに接続
-- https://takanori-azegami-jp.github.io/nextjs-github-pages-example/
+- https://takanori-azegami-jp.github.io/nextjs-github-pages-sample/
 
 
 ## 参考
